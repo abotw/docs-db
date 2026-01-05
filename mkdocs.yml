@@ -1,6 +1,6 @@
 site_name: DB Docs
-site_url: http://abotw.github.io/Docs-DB
-repo_url: https://github.com/abotw/Docs-DB
+site_url: http://abotw.github.io/docs-db
+repo_url: https://github.com/abotw/docs-db
 theme:
   name: material
   features:
